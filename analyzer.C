@@ -1,4 +1,4 @@
-void lab1Fit(){
+void analyzer(){
 
     string filename = "input_data.csv";  
 
